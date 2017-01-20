@@ -4,8 +4,8 @@ import urllib
 import sys
 import os
 from bs4 import BeautifulSoup
-import pandas as pd
-import numpy as np
+#import pandas as pd
+#import numpy as np
 import datetime
 
 
