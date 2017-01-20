@@ -1,7 +1,3 @@
-#Created By Gautam 2016-10-23 at 12:05:48
-#This is a Testing Python Script
-#Lets See What Happens
-
 
 import urllib2
 import urllib
